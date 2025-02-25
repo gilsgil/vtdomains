@@ -24,7 +24,7 @@ Clone the repository and build the application:
 ```bash
 git clone https://github.com/gilsgil/vt_subdomains.git
 cd vt_subdomains
-go build -o vt_subdomains main.go
+go build -o vtsubdomains main.go
 
 # OR
 
